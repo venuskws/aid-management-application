@@ -1,5 +1,6 @@
 # aid-management-application
 This is the term assignment of our second-semester object-oriented C++ programming course. I uploaded this as a demonstration of what I have been able to achieve through my study program. I have included the link to the original repository.
+
 An application that manages the list of goods that need to be shipped to the disaster area. The client application tracks the quantity of items needed, tracks the quantity on hand, and stores the information in a file for future use.  
 The types of goods that need to be shipped are of two categories;
 • Non-Perishable products, such as blankets and tents, which have no expiry date. We refer to products in this category as Product objects.
