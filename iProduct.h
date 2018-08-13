@@ -1,7 +1,7 @@
 // Final Project Milestone 4 - iProduct Class
 // iProduct.h
 // Date	2018-04-05
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description: Defines the iProduct abstract class
 
 #pragma once

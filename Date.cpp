@@ -2,7 +2,7 @@
 // Date.cpp
 // Version 1.0
 // March 10, 2018
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description
 // Implementation file for Date
 // Defines member functions for Date class and helper functions << and >>

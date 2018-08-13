@@ -2,7 +2,7 @@
 // Final Project Milestone 5 - Perishable Class
 // Perishable.h
 // Date	2018-04-11
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description: Defines the Perishable class
 
 #include <fstream>

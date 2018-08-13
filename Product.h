@@ -1,7 +1,7 @@
 // Final Project Milestone 3 - Product Class
 // Product.h
 // Date	2018-04-04
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description: Defines the product class
 
 #pragma once

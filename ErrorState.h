@@ -2,7 +2,7 @@
 // Final Project Milestone 2 - ErrorState Class
 // ErrorState.h
 // Date	2018-03-22
-// Author	Weisi Kong 125400176 wkong10@myseneca.ca
+// Author	Weisi Kong
 // Description: The ErrorState class manages the error state of client code and encapsulates the last error message.
 
 #include <iostream>

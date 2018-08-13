@@ -2,7 +2,7 @@
 // Date.h
 // Version 1.0
 // March 10, 2018
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description
 // Header file for Date.cpp 
 // Defines AMA namespace, Date class, helper operators << and >>

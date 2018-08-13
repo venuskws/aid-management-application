@@ -1,7 +1,7 @@
 // Final Project Milestone 5 - Perishable Class
 // Perishable.cpp
 // Date	2018-04-11
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description: Implementation for the Perishable class
 
 #include "Perishable.h"

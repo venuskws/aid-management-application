@@ -2,7 +2,7 @@
 // Final Project Milestone 3 - Product Class
 // Product.cpp
 // Date	2018-04-04 Updated 2018-04-16
-// Weisi Kong 125400176 wkong10@myseneca.ca
+// Weisi Kong
 // Description: Implementation for the product class
 
 #include <fstream>
